@@ -16,3 +16,16 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
+
+ΛΥΣΗ: 
+
+<p class="codepen" data-height="221" data-theme-id="light" data-default-tab="css,result" data-user="dimitramarkou" data-slug-hash="QWEKvoL" style="height: 221px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="QWEKvoL">
+  <span>See the Pen <a href="https://codepen.io/dimitramarkou/pen/QWEKvoL">
+  QWEKvoL</a> by dimitramarkou (<a href="https://codepen.io/dimitramarkou">@dimitramarkou</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script> 
+
+ΒΙΒΛΙΟΓΡΑΦΙΑ: 
+https://www.w3schools.com/jsref/met_win_open.asp
+https://www.reddit.com/r/Chonkers/comments/astnu2/chonky_boy/
